@@ -1,0 +1,14 @@
+DFS:
+	Yes, it could have chosen by chance those directions
+
+
+BFS:
+	No, because certain juntions were not explored
+
+
+Greedy with Manhattan distance heuristics:
+	No,
+	
+
+A* with  Manhattan distance heuristics:
+	
